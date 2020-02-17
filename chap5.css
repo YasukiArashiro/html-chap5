@@ -6,7 +6,12 @@
 
 header {
 	margin: 15px 0;
+	padding: 20px o;
 	text-align: center;
+}
+
+header .headline {
+	font-size: 32px;
 }
 
 .nav-list {
